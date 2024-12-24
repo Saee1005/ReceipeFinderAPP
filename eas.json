@@ -1,0 +1,25 @@
+{
+  "cli": {
+    "version": ">= 5.9.1",
+    "projectId": "da627a4e-c8a7-48de-8495-bc79bf2df5ad"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal",
+      "android": {
+        "gradleCommand": ":app:assembleDebug"
+      },
+      "ios": {
+        "buildConfiguration": "Debug"
+      }
+    },
+    "preview": {
+      "distribution": "internal"
+    },
+    "production": {}
+  },
+  "submit": {
+    "production": {}
+  }
+}
