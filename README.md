@@ -12,7 +12,7 @@ A Recipe Finder App that allows users to search recipes, supports offline mode, 
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone [repository URL]
+   git clone [[repository URL](https://github.com/Saee1005/ReceipeFinderAPP)]
 2. Navigate to the project director:
    cd Receipe Finder
 
