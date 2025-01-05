@@ -43,6 +43,6 @@ If your app uses APIs (e.g., Spoonacular), document the endpoints in API.md
 
 ### Example Request
 ```bash
-curl "https://api.spoonacular.com/recipes/complexSearch?query=pasta&apiKey=your_api_key"
+curl "https://api.spoonacular.com/recipes/complexSearch?query=pasta&apiKey=48295a8774674097a19e3586969c2efb"
 
  
