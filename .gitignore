@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Expo generated files
+expo-env.d.ts
+
+# Other common ignores for React Native projects
+*.log
+*.npm
+*.yarn
+dist/
+build/
