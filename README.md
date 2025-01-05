@@ -12,7 +12,7 @@ A Recipe Finder App that allows users to search recipes, supports offline mode, 
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone [[repository URL](https://github.com/Saee1005/ReceipeFinderAPP)]
+   git clone [[repository URL]]
 2. Navigate to the project director:
    cd Receipe Finder
 
@@ -43,6 +43,6 @@ If your app uses APIs (e.g., Spoonacular), document the endpoints in API.md
 
 ### Example Request
 ```bash
-curl "https://api.spoonacular.com/recipes/complexSearch?query=pasta&apiKey=48295a8774674097a19e3586969c2efb"
+curl "https://api.spoonacular.com/recipes/complexSearch?query=pasta&apiKey=Your API key"
 
  
